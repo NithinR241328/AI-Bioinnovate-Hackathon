@@ -1,5 +1,3 @@
-# AI-Bioinnovate-Hackathon
-Protein Engineering - PE4
 PE4 - Identify features that significantly contribute to classification accuracy by applying various
 feature selection methods and eventually building a stacked ensemble method
 1. The given dataset is a feature vector of blood brain barrier penetrating peptides. Class ‘1’
